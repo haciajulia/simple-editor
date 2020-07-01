@@ -18,15 +18,16 @@ font-weight: 300;
 
 }
 
-.input {
-display: flex;
+.text {
 width: 50vh;
 height: 25vh;
 border: none;
 border-radius: 16px;
 background-color: $mywhite;
 box-shadow: 0 25px 50px -12px rgba(0,0,0,0.25);
+padding:16px;
 }
+
 .flex {
   display: flex;
   justify-content: flex-end;
