@@ -1,18 +1,6 @@
 ![cover](https://res.cloudinary.com/hacia/image/upload/v1593625636/readme-image_b9mosc.png)
 
-# WTF Webpack Starter Kit 
+# WTF Simple editor  
 
-Simple toolkit for your static websites development.
-
-## How to use it?
-
-Click on `Use this template` button to generate a new repository based on this starter kit. After that clone it to your computer, go to the project directory in console and type `npm install`.
-
-## Available scripts
-
-`npm run start` - runs development mode
-
-`npm run build` - runs build process for production
-
-`npm run publish` - runs build process and publish the page using `gh-pages` branch
+Simple editor is a tool which **saves** data to your local storage and allows to **load** it back after page refresh.
 
