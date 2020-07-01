@@ -1,4 +1,4 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
+![cover](https://res.cloudinary.com/hacia/image/upload/v1593625636/readme-image_b9mosc.png)
 
 # WTF Webpack Starter Kit 
 
